@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 
 public class Seat_Info implements Seat_Status {
-	//ArrayList<Seat_Attri> ai=new ArrayList<Seat_Attri>();
+	
 	
 	@Override
 	public void blockSeat(int id, ArrayList<Seat_Attri> ai) {
